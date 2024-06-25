@@ -24,7 +24,7 @@ const Weather = () => {
     };
 
     const fetchWeatherByCity = () => {
-        const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
+        const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=b41ec3be35c7dac8aabbc21ba253137a&units=metric`;
         getWeather(url);
     };
 
@@ -55,6 +55,7 @@ const Weather = () => {
                             <li><a href="/lnsde">Land slide Data</a></li>
                             <li><a href="/wthr">Weather Broadcast</a></li>
                             <li><a href="/bot">Chatbot</a></li>
+                            <li><a href="/wrn">Warning System</a></li>
                         </ul>
                     </nav>
                     <ul className="social-links list-inline unstyled list-hover-slide">

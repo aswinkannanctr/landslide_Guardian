@@ -32,6 +32,7 @@ const Chatbot = () => {
                             <li><a href="/lnsde">Land slide Data</a></li>
                             <li><a href="/wthr">Weather Broadcast</a></li>
                             <li><a href="/bot">Chatbot</a></li>
+                            <li><a href="/wrn">Warning System</a></li>
                         </ul>
                     </nav>
                     <ul className="social-links list-inline unstyled list-hover-slide">

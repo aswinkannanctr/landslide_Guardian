@@ -32,6 +32,7 @@ import Home from './components/Home';
 import Landslide from './components/Landslide';
 import Weather from './components/Weather';
 import Chatbot from './components/Chatbot';
+import Warning from './components/Warning';
 
 // Your App component code
 
@@ -47,6 +48,8 @@ function App() {
           <Route path="/lnsde" element={<Landslide/>} />
           <Route path="/wthr" element={<Weather/>} />
           <Route path="/bot" element={<Chatbot/>} />
+          <Route path="/wrn" element={<Warning/>} />
+
         </Routes>
       </div>
     </Router>

@@ -1,0 +1,149 @@
+
+
+   
+
+    /* .Warnheader {
+        background-color: #007bff;
+        color: #fff;
+        padding: 10px;
+        text-align: center;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+    } */
+/* .box{
+    width: 500px;
+    height: 500px;
+    background: #5bdd30;
+    /* margin-left: 200px;
+}
+
+.alert {
+    padding: 20px;
+    background-color: #f44336; /* Red
+    color: white;
+    margin-bottom: 15px;
+    border-radius: 4px;
+    position: relative;
+}
+
+.alert .closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.alert .closebtn:hover {
+    color: black;
+} */
+
+.advice-card {
+    width: 500px;
+    border: 1px solid #f8f4f4;
+    border-radius: 8px;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+    height: 700px;
+    background: #ede9e9;
+}
+.advice-header {
+    background-color: #8bb802;
+    text-align: center;
+    padding: 20px;
+}
+.advice-header img {
+    width: 190px;
+    height: 190px;
+}
+.advice-body {
+    padding: 20px;
+    text-align: center;
+}
+.advice-body h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+.advice-body ul {
+    list-style-type: none;
+    padding: 0;
+}
+.advice-body ul li {
+    margin: 10px 0;
+}
+
+
+.advice-card2 {
+    width: 500px;
+    border: 1px solid #f8f4f4;
+    border-radius: 8px;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+    height: 700px;
+    background: #ede9e9;
+}
+.advice-header2 {
+    background-color: #f0e808;
+    text-align: center;
+    padding: 20px;
+}
+/* .advice-header img {
+    width: 170px;
+    height: 170px;
+} */
+.advice-body2 {
+    padding: 20px;
+    text-align: center;
+}
+
+
+.advice-card3 {
+    width: 500px;
+    border: 1px solid #f8f4f4;
+    border-radius: 8px;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+    height: 700px;
+    background: #ede9e9;
+}
+.advice-header3 {
+    background-color: #f0a608;
+    text-align: center;
+    padding: 20px;
+}
+/* .advice-header img {
+    width: 170px;
+    height: 170px;
+} */
+.advice-body3 {
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+.advice-card4 {
+    width: 500px;
+    border: 1px solid #f8f4f4;
+    border-radius: 8px;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+    height: 700px;
+    background: #ede9e9;
+}
+.advice-header4{
+    background-color: #f90101;
+    text-align: center;
+    padding: 20px;
+}
+/* .advice-header img {
+    width: 170px;
+    height: 170px;
+} */
+.advice-body4 {
+    padding: 20px;
+    text-align: center;
+}
