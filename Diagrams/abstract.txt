@@ -1,0 +1,31 @@
+Landslide Guardian: 
+Abstract:
+The Landslide Guardian empowers communities with real-time risk awareness, guides them to
+safety through dynamic escape routes, and expedites rescue efforts through automated notifications.
+This comprehensive approach aims to significantly reduce casualties, minimize damage, and
+provide crucial support during critical moments.
+Problem Statement: Landslides pose a constant threat to lives and infrastructure, often striking
+suddenly and leaving communities unprepared. Existing warning systems lack real-time data
+integration, personalized escape routes, and comprehensive communication tools, hindering
+effective response and rescue efforts.
+Solution Approach: This project introduces the Landslide Guardian, a multi-layered system
+leveraging real-time data and advanced technology to empower communities and expedite rescue.
+Key features:
+
+• Data Acquisition: Sensor networks collecting geological data (moisture content, slope
+movement, etc.) coupled with weather and seismic monitoring systems.
+
+• AI-powered Prediction: Machine learning algorithms analyzing real-time data to predict
+landslide risk with dynamic accuracy.
+
+• Adaptive Warning System: Multi-level alerts via mobile apps, sirens, and community
+broadcasts triggered based on predicted risk, ensuring timely and location-specific warnings.
+
+• Dynamic Escape Route Generation: Real-time geospatial analysis creates personalized,
+safe routes for individuals considering evolving risk and individual location.
+
+• Automated Rescue Notification: AI triggers immediate alerts to rescue teams upon
+detecting high landslide risk, minimizing response time.
+
+• Emergency Communication System: Integrated chatbox offering first-aid instructions and
+mental health support to trapped individuals, aiding them while awaiting rescue.
